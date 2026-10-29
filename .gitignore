@@ -1,0 +1,17 @@
+# Compiled Java files and build output
+*.class
+out/
+build/
+target/
+
+# Editor settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Operating system files and logs
+.DS_Store
+*.log
